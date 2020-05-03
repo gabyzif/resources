@@ -1,6 +1,6 @@
-# Resources
+# FRONT END RESOURCES
 
-List of resources!
+List of Front End resources!
 
 
 ## JS 
@@ -18,6 +18,7 @@ Explains the different experiments of The Useless Web created in 2012.
 
 - [PowerHouse](https://www.powerhouse-company.com/)
 - [Basic Agency](https://basicagency.com/)
+- [DieselWynwood](https://dieselwynwood.miami/)
 
 ## SVG 
 - [Heropatterns](http://www.heropatterns.com/)
