@@ -17,6 +17,7 @@ Explains the different experiments of The Useless Web created in 2012.
 ## Webs of the month
 
 - [PowerHouse](https://www.powerhouse-company.com/)
+- [Basic Agency](https://basicagency.com/)
 
 ## SVG 
 - [Heropatterns](http://www.heropatterns.com/)
