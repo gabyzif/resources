@@ -3,13 +3,20 @@
 List of resources!
 
 
+## JS 
+
 [The Useless Web Experiment](http://tholman.com/) 
 Explains the different experiments of The Useless Web created in 2012.
 
-## WEBS GALLERY
+## Website Gallery
 
+- [Awwwards](https://www.awwwards.com/)
 - [Best Website Gallery](https://bestwebsite.gallery/)
--
+
+
+## Webs of the month
+
+- [PowerHouse](https://www.powerhouse-company.com/)
 
 ## SVG 
 - [Heropatterns](http://www.heropatterns.com/)
