@@ -36,5 +36,5 @@ Free svg patterns for websites
 
 ## React Native Libraries
 
--[NativeBase](https://docs.nativebase.io/)
--[ShowThem](https://shoutem.github.io/)
+- [NativeBase](https://docs.nativebase.io/)
+- [ShowThem](https://shoutem.github.io/)
