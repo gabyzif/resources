@@ -8,6 +8,10 @@ List of Front End resources!
 [The Useless Web Experiment](http://tholman.com/) 
 Explains the different experiments of The Useless Web created in 2012.
 
+## JS ALGORITHMS
+
+- [40 probelms and algorithms](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038)
+
 ## Website Gallery
 
 - [Awwwards](https://www.awwwards.com/)
